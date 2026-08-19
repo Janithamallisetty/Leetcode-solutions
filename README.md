@@ -16,6 +16,7 @@
 | [0509-fibonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3099-harshad-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/3099-harshad-number) |
 ## Recursion
 |  |
 | ------- |
