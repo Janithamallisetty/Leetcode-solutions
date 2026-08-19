@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0136-single-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Math
@@ -64,6 +65,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0342-power-of-four) |
 ## Number Theory
