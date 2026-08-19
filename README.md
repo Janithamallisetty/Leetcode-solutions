@@ -9,12 +9,14 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0342-power-of-four](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
