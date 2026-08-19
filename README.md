@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
