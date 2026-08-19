@@ -16,6 +16,7 @@
 | [0342-power-of-four](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3099-harshad-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/3099-harshad-number) |
