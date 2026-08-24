@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -65,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0202-happy-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
