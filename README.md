@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -158,4 +161,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
