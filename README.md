@@ -36,6 +36,7 @@
 | [0263-ugly-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
