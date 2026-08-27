@@ -84,6 +84,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0202-happy-number) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0541-reverse-string-ii) |
