@@ -19,6 +19,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -125,6 +126,7 @@
 | [0367-valid-perfect-square](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Euclidean Algorithm
 |  |
