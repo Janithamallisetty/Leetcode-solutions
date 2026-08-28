@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0189-rotate-array) |
@@ -146,6 +148,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -198,4 +201,12 @@
 | [0344-reverse-string](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
