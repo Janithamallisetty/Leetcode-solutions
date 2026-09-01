@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0070-climbing-stairs) |
