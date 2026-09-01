@@ -37,6 +37,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0202-happy-number) |
@@ -147,6 +148,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -352,4 +354,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
