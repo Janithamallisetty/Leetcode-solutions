@@ -26,6 +26,7 @@
 | [0283-move-zeroes](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0456-132-pattern](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -111,6 +112,7 @@
 | [0198-house-robber](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -332,6 +334,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0733-flood-fill) |
@@ -429,10 +432,12 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 ## Longest Common Subsequence
 |  |
