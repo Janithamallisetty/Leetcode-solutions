@@ -15,6 +15,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -109,6 +110,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -121,12 +123,14 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0202-happy-number) |
@@ -275,6 +279,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0541-reverse-string-ii) |
@@ -447,4 +452,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
