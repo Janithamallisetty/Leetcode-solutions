@@ -24,6 +24,7 @@
 | [0200-number-of-islands](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0268-missing-number) |
@@ -141,6 +142,7 @@
 | [0141-linked-list-cycle](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -223,6 +225,7 @@
 | [0049-group-anagrams](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
