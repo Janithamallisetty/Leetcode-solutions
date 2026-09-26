@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -235,6 +237,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Janithamallisetty/Leetcode-solutions/tree/master/0695-max-area-of-island) |
